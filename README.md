@@ -44,31 +44,16 @@ A modern, secure, and user-friendly cryptocurrency wallet mobile interface built
 ## 📱 Screenshots
 
 <div align="center">
-<img src="./assets/screenshots/7.png" alt="Welcome Screen" width="250"/>
-<img src="./assets/screenshots/4.png" alt="Ready to Start" width="250"/>
+<img src="./assets/screenshots/1.png" alt="Screenshot 1" width="250"/>
+<img src="./assets/screenshots/2.png" alt="Screenshot 2" width="250"/>
+<img src="./assets/screenshots/3.png" alt="Screenshot 3" width="250"/>
+<img src="./assets/screenshots/4.png" alt="Screenshot 4" width="250"/>
+<img src="./assets/screenshots/5.png" alt="Screenshot 5" width="250"/>
+<img src="./assets/screenshots/6.png" alt="Screenshot 6" width="250"/>
+<img src="./assets/screenshots/7.png" alt="Screenshot 7" width="250"/>
 </div>
 
-**Welcome & Onboarding Flow** - Beautiful introduction screens that guide users through CryptoVault's security features and help them get started with creating or importing a wallet.
-
-<div align="center">
-<img src="./assets/screenshots/1.png" alt="Dashboard" width="250"/>
-<img src="./assets/screenshots/3.png" alt="Transaction History" width="250"/>
-</div>
-
-**Dashboard & Transaction History** - Clean portfolio overview showing total balance ($24,563.42), performance tracking (+3.7%), interactive Bitcoin price chart, and comprehensive transaction history with filtering options.
-
-<div align="center">
-<img src="./assets/screenshots/5.png" alt="Send Crypto" width="250"/>
-<img src="./assets/screenshots/2.png" alt="Receive with QR Code" width="250"/>
-</div>
-
-**Send & Receive Cryptocurrency** - Intuitive interfaces for sending crypto with asset selection, recipient address input, network fee calculation, and receiving with QR code generation and address sharing.
-
-<div align="center">
-<img src="./assets/screenshots/6.png" alt="Settings Panel" width="250"/>
-</div>
-
-**Settings & Security** - Complete settings panel with security options (Biometric Authentication, Backup Seed Phrase, Security Lock), preferences (Dark Mode, Notifications, Currency), and user profile management.
+CryptoVault Mobile UI showcases a complete cryptocurrency wallet experience with modern design and intuitive functionality. The application features a beautiful onboarding flow, comprehensive dashboard with portfolio tracking, seamless send/receive operations with QR code support, detailed transaction history with filtering capabilities, and robust security settings including biometric authentication and backup options.
 
 ## 🛠️ Technology Stack
 
