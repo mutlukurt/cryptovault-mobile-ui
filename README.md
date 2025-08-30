@@ -228,6 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- **Initial UI Generation:** [Magic Patterns](https://www.magicpatterns.com/) - Initial UI generated using MagicPatterns, further developed and customized by Mutlu Kurt
 - **Design Inspiration:** Modern fintech applications
 - **Icons:** [Lucide React](https://lucide.dev/) for beautiful, consistent icons
 - **UI Framework:** [Tailwind CSS](https://tailwindcss.com/) for rapid styling
