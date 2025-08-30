@@ -43,42 +43,32 @@ A modern, secure, and user-friendly cryptocurrency wallet mobile interface built
 
 ## 📱 Screenshots
 
-### Welcome & Onboarding
 <div align="center">
 <img src="./assets/screenshots/7.png" alt="Welcome Screen" width="250"/>
 <img src="./assets/screenshots/4.png" alt="Ready to Start" width="250"/>
 </div>
 
-*The welcome flow introduces users to CryptoVault's security features with a beautiful onboarding experience.*
+**Welcome & Onboarding Flow** - Beautiful introduction screens that guide users through CryptoVault's security features and help them get started with creating or importing a wallet.
 
-### Dashboard - Portfolio Overview
 <div align="center">
 <img src="./assets/screenshots/1.png" alt="Dashboard" width="250"/>
+<img src="./assets/screenshots/3.png" alt="Transaction History" width="250"/>
 </div>
 
-*Clean dashboard showing total balance ($24,563.42), portfolio performance (+3.7%), interactive Bitcoin price chart, and asset overview with real-time prices for BTC, ETH, and SOL.*
+**Dashboard & Transaction History** - Clean portfolio overview showing total balance ($24,563.42), performance tracking (+3.7%), interactive Bitcoin price chart, and comprehensive transaction history with filtering options.
 
-### Send & Receive Cryptocurrency
 <div align="center">
 <img src="./assets/screenshots/5.png" alt="Send Crypto" width="250"/>
 <img src="./assets/screenshots/2.png" alt="Receive with QR Code" width="250"/>
 </div>
 
-*Intuitive send interface with asset selection, recipient address input, amount calculation, and network fees. Receive feature includes QR code generation and address sharing.*
+**Send & Receive Cryptocurrency** - Intuitive interfaces for sending crypto with asset selection, recipient address input, network fee calculation, and receiving with QR code generation and address sharing.
 
-### Transaction History
-<div align="center">
-<img src="./assets/screenshots/3.png" alt="Transaction History" width="250"/>
-</div>
-
-*Comprehensive transaction history with search functionality, filtering options (All, Sent, Received), and detailed transaction information grouped by date.*
-
-### Settings & Security
 <div align="center">
 <img src="./assets/screenshots/6.png" alt="Settings Panel" width="250"/>
 </div>
 
-*Complete settings panel with security options (Biometric Authentication, Backup Seed Phrase, Security Lock), preferences (Dark Mode, Notifications, Currency), and user profile management.*
+**Settings & Security** - Complete settings panel with security options (Biometric Authentication, Backup Seed Phrase, Security Lock), preferences (Dark Mode, Notifications, Currency), and user profile management.
 
 ## 🛠️ Technology Stack
 
