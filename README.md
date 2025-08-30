@@ -2,7 +2,12 @@
 
 A modern, secure, and user-friendly cryptocurrency wallet mobile interface built with React and TypeScript. CryptoVault provides a seamless experience for managing digital assets with bank-grade security and an intuitive design.
 
-![CryptoVault Banner](./screenshots/banner.png)
+<div align="center">
+<img src="./assets/screenshots/7.png" alt="Welcome to CryptoVault" width="200"/>
+<img src="./assets/screenshots/1.png" alt="Dashboard" width="200"/>
+<img src="./assets/screenshots/2.png" alt="Receive with QR" width="200"/>
+<img src="./assets/screenshots/3.png" alt="Transaction History" width="200"/>
+</div>
 
 ## ✨ Features
 
@@ -40,37 +45,37 @@ A modern, secure, and user-friendly cryptocurrency wallet mobile interface built
 
 ### Welcome & Onboarding
 <div align="center">
-<img src="./screenshots/welcome-1.png" alt="Welcome Screen" width="250"/>
-<img src="./screenshots/welcome-3.png" alt="Ready to Start" width="250"/>
+<img src="./assets/screenshots/7.png" alt="Welcome Screen" width="250"/>
+<img src="./assets/screenshots/4.png" alt="Ready to Start" width="250"/>
 </div>
 
 *The welcome flow introduces users to CryptoVault's security features with a beautiful onboarding experience.*
 
 ### Dashboard - Portfolio Overview
 <div align="center">
-<img src="./screenshots/dashboard.png" alt="Dashboard" width="250"/>
+<img src="./assets/screenshots/1.png" alt="Dashboard" width="250"/>
 </div>
 
 *Clean dashboard showing total balance ($24,563.42), portfolio performance (+3.7%), interactive Bitcoin price chart, and asset overview with real-time prices for BTC, ETH, and SOL.*
 
 ### Send & Receive Cryptocurrency
 <div align="center">
-<img src="./screenshots/send.png" alt="Send Crypto" width="250"/>
-<img src="./screenshots/receive.png" alt="Receive with QR Code" width="250"/>
+<img src="./assets/screenshots/5.png" alt="Send Crypto" width="250"/>
+<img src="./assets/screenshots/2.png" alt="Receive with QR Code" width="250"/>
 </div>
 
 *Intuitive send interface with asset selection, recipient address input, amount calculation, and network fees. Receive feature includes QR code generation and address sharing.*
 
 ### Transaction History
 <div align="center">
-<img src="./screenshots/transactions.png" alt="Transaction History" width="250"/>
+<img src="./assets/screenshots/3.png" alt="Transaction History" width="250"/>
 </div>
 
 *Comprehensive transaction history with search functionality, filtering options (All, Sent, Received), and detailed transaction information grouped by date.*
 
 ### Settings & Security
 <div align="center">
-<img src="./screenshots/settings.png" alt="Settings Panel" width="250"/>
+<img src="./assets/screenshots/6.png" alt="Settings Panel" width="250"/>
 </div>
 
 *Complete settings panel with security options (Biometric Authentication, Backup Seed Phrase, Security Lock), preferences (Dark Mode, Notifications, Currency), and user profile management.*
